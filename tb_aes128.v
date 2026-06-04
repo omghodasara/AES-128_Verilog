@@ -20,7 +20,7 @@ module tb_aes128();
         key       = 128'h2b7e151628aed2a6abf7158809cf4f3c;
         plaintext = 128'h3243f6a8885a308d313198a2e0370734;
         #20; 
-//        expected ciphertext: 3925841d02dc09fbdce118aa0912222c
+//        expected ciphertext: 3925841d02dc09fbdc118597196a0b32
 
         key       = 128'h00000000000000000000000000000000;
         plaintext = 128'h00000000000000000000000000000000;
