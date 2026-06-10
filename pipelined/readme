@@ -1,0 +1,4 @@
+# Pipelined AES-128
+This folder will contain the pipelined implementation of the AES-128 encryption core. 
+
+Currently a work in progress!
